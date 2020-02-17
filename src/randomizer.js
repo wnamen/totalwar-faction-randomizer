@@ -12,7 +12,6 @@ class Randomizer {
     this.factions = [...factions];
     this.includeCavOnly = true;
     this.includeSuper = true;
-    this.maxPlayers = 8;
     this.numberOfPlayers = 2;
     this.packs = [...meta.availablePacks];
     this.selectedCampaign = "Grand Campaign";
@@ -89,10 +88,10 @@ class Randomizer {
   resetRandomizer() {
     const availableFactions = this.factions.filter((faction) => (faction.free || faction.dlc.includes("Grand Campaign")))
 
+    this.availableCampaigns = [...this.campaigns];
     this.availableFactions = availableFactions;
     this.includeCavOnly = true;
     this.includeSuper = true;
-    this.maxPlayers = 8;
     this.numberOfPlayers = 2;
     this.selectedCampaign = "Grand Campaign";
     this.selectedDLCs = ["Rise of the Republic", "Empire Divided", "Wrath of Sparta", "Hannibal at the Gates", "Ceasar in Gaul", "Imperator Augustus", "Greek States", "Nomadic Tribes", "Pirates and Raiders", "Black Sea Colonies"]
