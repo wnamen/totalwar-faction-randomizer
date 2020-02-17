@@ -1,4 +1,14 @@
+# Total War Faction Randomizer
+
+A project by wnamen
+
+This project helps Total War: Rome 2 players easily randomize factions.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Contributors
+
+@Bane - Big thanks to Bane who helped confirm the data to make this project as accurate as possible
 
 ## Available Scripts
 

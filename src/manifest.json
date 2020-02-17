@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Total War Faction Randomizer",
+  "description": "This extension helps Rome 2 players easily pick factions",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Total War Faction Randomizer"
+  },
+  "permissions": []
+}

@@ -1,0 +1,409 @@
+{
+  "rome_2": [{
+    "free": true,
+    "name": "Rome",
+    "dlc": ["Grand Campaign", "Hannibal at the Gates", "Empire Divided", "Rise of the Republic", "Ceasar in Gaul"],
+    "culture": "rome",
+    "features": ["SUPER"],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Carthage",
+    "dlc": ["Grand Campaign", "Hannibal at the Gates"],
+    "culture": "carthage",
+    "features": ["SUPER"],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Macedon",
+    "dlc": ["Grand Campaign"],
+    "culture": "successor_kingdoms",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Iceni",
+    "dlc": ["Grand Campaign", "Imperator Augustus"],
+    "culture": "britannic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Arverni",
+    "dlc": ["Grand Campaign", "Ceasar in Gaul"],
+    "culture": "gallic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Suebi",
+    "dlc": ["Grand Campaign", "Ceasar in Gaul"],
+    "culture": "germanic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Parthia",
+    "dlc": ["Grand Campaign"],
+    "culture": "eastern_empires",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Egypt",
+    "dlc": ["Grand Campaign"],
+    "culture": "successor_kingdoms",
+    "features": ["SUPER"],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Pontus",
+    "dlc": ["Grand Campaign"],
+    "culture": "eastern_empires",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Seleucid",
+    "dlc": ["Grand Campaign"],
+    "culture": "successor_kingdoms",
+    "features": ["SUPER"],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Baktria",
+    "dlc": ["Grand Campaign"],
+    "culture": "successor_kingdoms",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Getae",
+    "dlc": ["Grand Campaign"],
+    "culture": "balkan_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Armenia",
+    "dlc": ["Grand Campaign", "Empire Divided", "Imperator Augustus"],
+    "culture": "eastern_empires",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": true,
+    "name": "Massilia",
+    "dlc": ["Grand Campaign"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Athens",
+    "dlc": ["Grand Campaign", "Greek States"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Sparta",
+    "dlc": ["Grand Campaign", "Wrath of Sparta", "Greek States"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Epirus",
+    "dlc": ["Grand Campaign", "Greek States"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Massagetae",
+    "dlc": ["Grand Campaign", "Nomadic Tribes"],
+    "culture": "Nomadic Tribes",
+    "features": ["CavOnly"],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Roxolani",
+    "dlc": ["Grand Campaign", "Nomadic Tribes"],
+    "culture": "Nomadic Tribes",
+    "features": ["CavOnly"],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Royal Scythia",
+    "dlc": ["Grand Campaign", "Nomadic Tribes"],
+    "culture": "Nomadic Tribes",
+    "features": ["CavOnly"],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Boii",
+    "dlc": ["Grand Campaign", "Ceasar in Gaul"],
+    "culture": "gallic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Galatia",
+    "dlc": ["Grand Campaign", "Ceasar in Gaul"],
+    "culture": "gallic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Nervii",
+    "dlc": ["Grand Campaign", "Ceasar in Gaul"],
+    "culture": "gallic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Arevaci",
+    "dlc": ["Grand Campaign", "Hannibal at the Gates"],
+    "culture": "iberian_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Lusitani",
+    "dlc": ["Grand Campaign", "Hannibal at the Gates"],
+    "culture": "iberian_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Syracuse",
+    "dlc": ["Grand Campaign", "Hannibal at the Gates", "Rise of the Republic"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Ardiaei",
+    "dlc": ["Grand Campaign", "Pirates and Raiders"],
+    "culture": "balkan_tribes",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Odrysian Kingdom",
+    "dlc": ["Grand Campaign", "Pirates and Raiders"],
+    "culture": "balkan_tribes",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Tylis",
+    "dlc": ["Grand Campaign", "Pirates and Raiders"],
+    "culture": "balkan_tribes",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Cimmeria",
+    "dlc": ["Grand Campaign", "Black Sea Colonies"],
+    "culture": "Black Sea Colonies",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Colchis",
+    "dlc": ["Grand Campaign", "Black Sea Colonies"],
+    "culture": "Black Sea Colonies",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Pergamon",
+    "dlc": ["Grand Campaign", "Black Sea Colonies"],
+    "culture": "Black Sea Colonies",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Kush",
+    "dlc": ["Grand Campaign", "Desert Kingdoms"],
+    "culture": "Desert Kingdoms",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Nabatea",
+    "dlc": ["Grand Campaign", "Desert Kingdoms"],
+    "culture": "Desert Kingdoms",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Saba",
+    "dlc": ["Grand Campaign", "Desert Kingdoms"],
+    "culture": "Desert Kingdoms",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Masaesyli",
+    "dlc": ["Grand Campaign", "Desert Kingdoms"],
+    "culture": "Desert Kingdoms",
+    "features": [],
+    "type": "culture"
+  }, {
+    "free": false,
+    "name": "Lepidus's Rome",
+    "dlc": ["Imperator Augustus"],
+    "culture": "",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Octavian's Rome",
+    "dlc": ["Imperator Augustus"],
+    "culture": "",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Antony's Rome",
+    "dlc": ["Imperator Augustus"],
+    "culture": "",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Pompey's Rome",
+    "dlc": ["Imperator Augustus"],
+    "culture": "",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Marcomanni",
+    "dlc": ["Imperator Augustus", "Empire Divided"],
+    "culture": "germanic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Dacia",
+    "dlc": ["Imperator Augustus"],
+    "culture": "balkan_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Athenai",
+    "dlc": ["Wrath of Sparta"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Boiotian League",
+    "dlc": ["Wrath of Sparta"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Korinthos",
+    "dlc": ["Wrath of Sparta"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Taras",
+    "dlc": ["Rise of the Republic"],
+    "culture": "Greek States",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Samnites",
+    "dlc": ["Rise of the Republic"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Veneti",
+    "dlc": ["Rise of the Republic"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Senones",
+    "dlc": ["Rise of the Republic"],
+    "culture": "gallic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Insubres",
+    "dlc": ["Rise of the Republic"],
+    "culture": "germanic_tribes",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Tarchuna",
+    "dlc": ["Rise of the Republic"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Lolei",
+    "dlc": ["Rise of the Republic"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Alani",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Caledonii",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Gallic Rome",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Gothi",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "The Sassanids",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }, {
+    "free": false,
+    "name": "Saxoni",
+    "dlc": ["Empire Divided"],
+    "culture": "latin_states",
+    "features": [],
+    "type": "campaign"
+  }]
+}

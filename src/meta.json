@@ -1,0 +1,6 @@
+{
+  "rome_2": {
+    "availableCampaigns": ["Rise of the Republic", "Empire Divided", "Wrath of Sparta", "Hannibal at the Gates", "Ceasar in Gaul", "Imperator Augustus"],
+    "availablePacks": ["Greek States", "Nomadic Tribes", "Pirates and Raiders", "Black Sea Colonies"]
+  }
+}
