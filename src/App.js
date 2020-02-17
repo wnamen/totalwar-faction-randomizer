@@ -41,6 +41,16 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <h1> Total War: Rome 2 Faction Randomizer </h1>
+          <span>
+            A project by&nbsp;
+            <a
+              href="https://github.com/wnamen"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              wnamen
+            </a>
+          </span>
         </header>
         <div className="App-body">
           <form id="randomizer-form">
