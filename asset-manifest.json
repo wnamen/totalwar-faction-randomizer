@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/totalwar-faction-randomizer/static/css/main.7c32a9a8.chunk.css",
+    "main.js": "/totalwar-faction-randomizer/static/js/main.0f92e5f0.chunk.js",
+    "main.js.map": "/totalwar-faction-randomizer/static/js/main.0f92e5f0.chunk.js.map",
+    "runtime-main.js": "/totalwar-faction-randomizer/static/js/runtime-main.8c1109d1.js",
+    "runtime-main.js.map": "/totalwar-faction-randomizer/static/js/runtime-main.8c1109d1.js.map",
+    "static/js/2.c8e08d75.chunk.js": "/totalwar-faction-randomizer/static/js/2.c8e08d75.chunk.js",
+    "static/js/2.c8e08d75.chunk.js.map": "/totalwar-faction-randomizer/static/js/2.c8e08d75.chunk.js.map",
+    "index.html": "/totalwar-faction-randomizer/index.html",
+    "precache-manifest.c090becb3cc9e56ba68cc4fe1a4d7c07.js": "/totalwar-faction-randomizer/precache-manifest.c090becb3cc9e56ba68cc4fe1a4d7c07.js",
+    "service-worker.js": "/totalwar-faction-randomizer/service-worker.js",
+    "static/css/main.7c32a9a8.chunk.css.map": "/totalwar-faction-randomizer/static/css/main.7c32a9a8.chunk.css.map",
+    "static/js/2.c8e08d75.chunk.js.LICENSE.txt": "/totalwar-faction-randomizer/static/js/2.c8e08d75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c1109d1.js",
+    "static/js/2.c8e08d75.chunk.js",
+    "static/css/main.7c32a9a8.chunk.css",
+    "static/js/main.0f92e5f0.chunk.js"
+  ]
+}
