@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/totalwar-faction-randomizer/precache-manifest.0858107d996691b3b8df8f6b3bc796a5.js"
+  "/totalwar-faction-randomizer/precache-manifest.54ff439bcfedff2c72f81631ae036daa.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b26ad21f16b0fd08bc8a7df2ad39ac5a",
+    "revision": "b0d678845ec55c11f6195b34d22a290e",
     "url": "/totalwar-faction-randomizer/index.html"
   },
   {
-    "revision": "d69d2659971032d28b79",
-    "url": "/totalwar-faction-randomizer/static/css/main.7c32a9a8.chunk.css"
+    "revision": "e461fde0e998001dca01",
+    "url": "/totalwar-faction-randomizer/static/css/main.2962af57.chunk.css"
   },
   {
     "revision": "88589daa5cb2292da73f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totalwar-faction-randomizer/static/js/2.c8e08d75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d69d2659971032d28b79",
-    "url": "/totalwar-faction-randomizer/static/js/main.730c35b6.chunk.js"
+    "revision": "e461fde0e998001dca01",
+    "url": "/totalwar-faction-randomizer/static/js/main.ebe6c37a.chunk.js"
   },
   {
     "revision": "397628887704ed0e3e72",
