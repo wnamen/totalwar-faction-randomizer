@@ -121,7 +121,7 @@ class Randomizer {
 
     const checkbox = document.getElementById("unique");
 
-    if (this.unique && this.numberOfPlayers > this.availableFactions.length) {
+    if (this.numberOfPlayers > this.availableFactions.length) {
       this.unique = false;
       checkbox.checked = false;
       checkbox.disabled = true;
@@ -165,7 +165,7 @@ class Randomizer {
 
     const checkbox = document.getElementById("unique");
 
-    if (this.unique && this.numberOfPlayers > this.availableFactions.length) {
+    if (this.numberOfPlayers > this.availableFactions.length) {
       this.unique = false;
       checkbox.checked = false;
       checkbox.disabled = true;
