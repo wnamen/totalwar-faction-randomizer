@@ -94,7 +94,7 @@ class Randomizer {
     this.includeSuper = true;
     this.numberOfPlayers = 2;
     this.selectedCampaign = "Grand Campaign";
-    this.selectedDLCs = ["Rise of the Republic", "Empire Divided", "Wrath of Sparta", "Hannibal at the Gates", "Ceasar in Gaul", "Imperator Augustus", "Greek States", "Nomadic Tribes", "Pirates and Raiders", "Black Sea Colonies"]
+    this.selectedDLCs = ["Rise of the Republic", "Empire Divided", "Wrath of Sparta", "Hannibal at the Gates", "Ceasar in Gaul", "Imperator Augustus", "Greek States", "Nomadic Tribes", "Desert Kingdoms", "Pirates and Raiders", "Black Sea Colonies"]
     this.selectedFactions = [];
     this.unique = true;
   }
